@@ -1,16 +1,20 @@
 # 1 现象
 正常通过复制EmTester方式预置应用后，  
 如果**LOCAL_CERTIFICATE**设置为**platform**，则可正常预置，无任何问题；  
-但如果设置为**PRESIGNED**，则会出现刷机后找不到该应用，但在设备中的`system/app`目录下又存在对应apk  
+但如果设置为**PRESIGNED**，则会出现刷机后找不到该应用，但在设备中的`system/app`目录下又存在对应apk。  
 
 # 2 原因
-根据开机后的log，查找其中的apk名称关键词，找到`11-14 16:47:21.398  1043  1043 W PackageManager: Failed to scan /system/app/irest: No APK Signature Scheme v2 signature in package /system/app/irest/irest.apk`记录，表明是签名相关问题。  
+根据开机后的log，查找其中的apk名称关键词，找到记录如下
+```bash
+11-14 16:47:21.398  1043  1043 W PackageManager: Failed to scan /system/app/irest: No APK Signature Scheme v2 signature in package /system/app/irest/irest.apk
+```
+表明是签名相关问题。  
 ## 2.1 查看apk签名方法
 首先需要查看apk是否有签名，然后查看其签名的版本及具体内容信息。  
 
 ### 2.1.1 验证apk是否有签名
 `keytool -list -printcert -jarfile D:\Desktop\编译文件\t8323\系统签名相关\111.apk`
-![](img/Pasted%20image%2020231116093521.png)
+![](bug修复/img/Pasted%20image%2020231116093521.png)
 
 #### 2.1.1.1 keytool不是内部或外部命令
 keytool是java内容的工具，所以需要在java环境下才能运行。  
@@ -20,8 +24,8 @@ keytool是java内容的工具，所以需要在java环境下才能运行。
 如果安装了java，但访问不到，需要将jdk路径配置到**系统变量Path**中，如`C:\Program Files\java\jdk1.8\bin`
 
 ### 2.1.2 验证apk具体签名的版本
-`apksigner verify --v D:\Documents\ding\项目相关\8323豪中豪\1578266229997632.apk`
-![](img/Pasted%20image%2020231116101844.png)
+`apksigner verify --v D:\Documents\ding\项目相关\8323\1578266229997632.apk`
+![](bug修复/img/Pasted%20image%2020231116101844.png)
 可查看apk中存在哪些版本的签名。  
 #### 2.1.2.1 apksigner获取
 需要在android sdk中的build-tools中打开cmd才能正常运行apksigner。  

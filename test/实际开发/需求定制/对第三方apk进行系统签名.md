@@ -1,3 +1,6 @@
+# 目标
+对第三方apk进行系统签名，使得使用系统签名预置的apk可以再次安装。  
+
 # 1 通过集合的密钥包签名(win)
 ```bash
 apksigner sign -ks "D:\Desktop\编译文件\t8323\系统签名相关\platform_t6676_r0.jks" "D:\Desktop\编译文件\t8323\系统签名相关\111.apk"
@@ -12,8 +15,8 @@ apksigner sign -ks "D:\Desktop\编译文件\t8323\系统签名相关\platform_t6
 
 **签名相关文件：**
 
-**signapk.jar**， 位置：`out/host/linux-x86/framework/signapk.jar`
-**platform.x509.pem**，位置：`build/target/product/security/platform.x509.pem`
+**signapk.jar**， 位置：`out/host/linux-x86/framework/signapk.jar`  
+**platform.x509.pem**，位置：`build/target/product/security/platform.x509.pem`  
 **platform.pk8**，位置：`build/target/product/security/platform.pk8`  
 
 经查，**实际密钥位置**为`device/mediatek/security/`，这是项目进行了客制化后的位置。  
