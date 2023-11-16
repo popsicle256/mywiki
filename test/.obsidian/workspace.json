@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "70bbcbcd85bba4b8",
+        "id": "85bec4c60924f16e",
         "type": "tabs",
         "children": [
           {
-            "id": "15c1a1c1e23e9a60",
+            "id": "9edb1a6fda82b38e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "否定.md",
+                "file": "实际开发/使用PRESIGNED签名预置应用后开机无法打开.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5
   },
   "right": {
     "id": "0e445bacf439a5af",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "否定.md",
+                "file": "实际开发/使用PRESIGNED签名预置应用后开机无法打开.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "否定.md",
+                "file": "实际开发/使用PRESIGNED签名预置应用后开机无法打开.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "否定.md"
+                "file": "实际开发/使用PRESIGNED签名预置应用后开机无法打开.md"
               }
             }
           }
@@ -149,14 +149,85 @@
       "privacy-glasses:Reveal all": false
     }
   },
-  "active": "15c1a1c1e23e9a60",
+  "floating": {
+    "id": "b2d50d323d7a3e8e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8a1065a547a20204",
+        "type": "window",
+        "children": [
+          {
+            "id": "fb7d89dc9b3dc10d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "28f2b2489aee9187",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "实际开发/使用PRESIGNED签名预置应用后开机无法打开.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "afb4bffb8a9d0d02",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "实际开发/对第三方apk进行系统签名.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 812,
+        "y": 90,
+        "width": 949,
+        "height": 842,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "28f2b2489aee9187",
   "lastOpenFiles": [
+    "实际开发/对第三方apk进行系统签名.md",
+    "实际开发/使用PRESIGNED签名预置应用后开机无法打开.md",
+    "调试源码部分/Android Studio查看AOSP源码（blocked）.md",
+    "调试源码部分/Android Studio调试系统APK.md",
+    "获取源码/Windows 10下安装Linux.md",
+    "实际开发/img/Pasted image 20231116101844.png",
+    "实际开发/img/Pasted image 20231116093521.png",
+    "实际开发/img",
+    "实际开发",
+    "获取源码/在Ubuntu上拉取aosp并编译.md",
+    "获取源码/img/Pasted image 20231110175857.png",
+    "获取源码/img/Pasted image 20231110154153.png",
+    "Windows.md",
+    "获取源码/img/Pasted image 20231110112500.png",
     "test_for_md.md",
-    "2023-11-03.md",
-    "否定.md",
-    "未命名",
     "img/Pasted image 20231103160410.png",
-    "img",
-    "Pasted image 20231103160410.png"
+    "否定.md",
+    "Obsidian更改图片保存形式.md",
+    "img/Pasted image 20231110111355.png",
+    "img/Pasted image 20231110111141.png",
+    "img/Pasted image 20231110111210.png",
+    "img/Pasted image 20231110111043.png",
+    "获取源码/img",
+    "获取源码",
+    "系统部分相关源码/SystemUI.md",
+    "系统部分相关源码",
+    "调试源码部分",
+    "2023-11-03.md",
+    "img"
   ]
 }

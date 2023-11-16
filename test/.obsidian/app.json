@@ -1,1 +1,9 @@
-{}
+{
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./img",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "showLineNumber": false
+}
