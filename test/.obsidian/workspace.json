@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实际开发/使用PRESIGNED签名预置应用后开机无法打开.md",
+                "file": "实际开发/对第三方apk进行系统签名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实际开发/使用PRESIGNED签名预置应用后开机无法打开.md",
+                "file": "实际开发/对第三方apk进行系统签名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实际开发/使用PRESIGNED签名预置应用后开机无法打开.md"
+                "file": "实际开发/对第三方apk进行系统签名.md"
               }
             }
           }
@@ -185,7 +185,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -198,10 +199,10 @@
       }
     ]
   },
-  "active": "28f2b2489aee9187",
+  "active": "afb4bffb8a9d0d02",
   "lastOpenFiles": [
-    "实际开发/对第三方apk进行系统签名.md",
     "实际开发/使用PRESIGNED签名预置应用后开机无法打开.md",
+    "实际开发/对第三方apk进行系统签名.md",
     "调试源码部分/Android Studio查看AOSP源码（blocked）.md",
     "调试源码部分/Android Studio调试系统APK.md",
     "获取源码/Windows 10下安装Linux.md",
