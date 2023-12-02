@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际开发/需求定制/对第三方apk进行系统签名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2eaacb444994e713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "模板/修复bug.md",
+                "file": "系统部分相关源码分析/SystemUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实际开发/需求定制/对第三方apk进行系统签名.md",
+                "file": "系统部分相关源码分析/SystemUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实际开发/需求定制/对第三方apk进行系统签名.md",
+                "file": "系统部分相关源码分析/SystemUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实际开发/需求定制/对第三方apk进行系统签名.md"
+                "file": "系统部分相关源码分析/SystemUI.md"
               }
             }
           }
@@ -186,99 +174,77 @@
                 }
               },
               {
-                "id": "afb4bffb8a9d0d02",
+                "id": "9d779daa77a80c41",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "实际开发/需求定制/对第三方apk进行系统签名.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a4b0e9b8fe6df415",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "实际开发/需求定制/屏幕底部上滑进入指定app.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "b7b259543c10f4ce",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "实际开发/需求定制/默认开启wifi.md",
+                    "file": "系统部分相关源码分析/权限相关/运行时权限相关.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 812,
-        "y": 90,
-        "width": 949,
-        "height": 842,
+        "x": 370,
+        "y": 95,
+        "width": 1186,
+        "height": 891,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "2d77ca0fe571fdf6",
+  "active": "9edb1a6fda82b38e",
   "lastOpenFiles": [
+    "系统部分相关源码分析/Settings",
+    "实际开发/需求定制/【Settings】修改默认语言.md",
+    "实际开发/需求定制/去除应用内wifi使用允许弹框.md",
     "实际开发/需求定制/屏幕底部上滑进入指定app.md",
-    "实际开发/需求定制/对第三方apk进行系统签名.md",
+    "实际开发/需求定制/默认授予运行时权限.md",
+    "实际开发/需求定制/【Settings】默认开启wifi.md",
     "实际开发/需求定制/禁止锁屏页面通知.md",
+    "实际开发/需求定制/过滤指定应用通知.md",
+    "实际开发/需求定制/【Settings】修改系统默认时区.md",
+    "实际开发/需求定制/【Settings】动态显示和隐藏部分一级菜单.md",
+    "实际开发/需求定制/【SystemUI】隐藏状态栏.md",
+    "实际开发/需求定制/对第三方apk进行系统签名.md",
+    "实际开发/bug修复/使用PRESIGNED签名预置应用后开机无法打开.md",
+    "实际开发/需求定制/img/Pasted image 20231129153549.png",
+    "实际开发/需求定制/img/Pasted image 20231129153240.png",
+    "实际开发/需求定制/img/Pasted image 20231129142303.png",
+    "实际开发/bug修复/关机充电动画方向错误（未解决）.md",
+    "实际开发/bug修复/img/Pasted image 20231124200732.png",
+    "实际开发/bug修复/img/Pasted image 20231124201247.png",
+    "实际开发/bug修复/img/Pasted image 20231124200713.png",
     "模板/修复bug.md",
+    "模板/定制需求.md",
+    "系统部分相关源码分析/权限相关/运行时权限相关.md",
+    "系统部分相关源码分析/SystemUI.md",
+    "系统部分相关源码分析/权限相关",
+    "未命名",
+    "实际开发/需求定制/img/Pasted image 20231117114815.png",
+    "实际开发/需求定制/img",
+    "实际开发/需求定制/默认授予应用通知权限.md",
     "Obsidian模板应用.md",
     "img/Pasted image 20231116172108.png",
-    "实际开发/需求定制/隐藏状态栏.md",
-    "实际开发/bug修复/使用PRESIGNED签名预置应用后开机无法打开.md",
-    "实际开发/需求定制/默认授予运行时权限.md",
-    "实际开发/需求定制/默认开启wifi.md",
-    "实际开发/需求定制/过滤指定应用通知.md",
     "实际开发/未命名.md",
     "实际开发/bug修复",
-    "模板/定制需求.md",
     "实际开发/需求定制",
     "模板",
     "模板.md",
     "Obsidian更改图片保存形式.md",
     "test_for_md.md",
-    "系统部分相关源码/SystemUI.md",
     "调试源码部分/Android Studio查看AOSP源码（blocked）.md",
     "调试源码部分/Android Studio调试系统APK.md",
-    "获取源码/Windows 10下安装Linux.md",
     "实际开发/bug修复/img/Pasted image 20231116101844.png",
     "实际开发/bug修复/img/Pasted image 20231116093521.png",
     "实际开发/bug修复/img",
     "实际开发",
-    "获取源码/在Ubuntu上拉取aosp并编译.md",
-    "获取源码/img/Pasted image 20231110175857.png",
-    "获取源码/img/Pasted image 20231110154153.png",
-    "Windows.md",
-    "获取源码/img/Pasted image 20231110112500.png",
-    "img/Pasted image 20231103160410.png",
-    "否定.md",
-    "img/Pasted image 20231110111355.png",
-    "img/Pasted image 20231110111141.png",
-    "img/Pasted image 20231110111210.png",
     "获取源码/img",
-    "获取源码",
-    "系统部分相关源码",
-    "调试源码部分",
-    "2023-11-03.md",
-    "img"
+    "获取源码"
   ]
 }

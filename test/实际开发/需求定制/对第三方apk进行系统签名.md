@@ -6,7 +6,7 @@
 apksigner sign -ks "D:\Desktop\编译文件\t8323\系统签名相关\platform_t6676_r0.jks" "D:\Desktop\编译文件\t8323\系统签名相关\111.apk"
 ```
 
-在win环境下进行。完成后文件夹中的111.apk即为已经签名成功的apk。  
+在win环境下进行（要求要在sdk环境下才能进行，`D:\Program Files\Android Studio\SDK\build-tools\34.0.0`）。完成后文件夹中的111.apk即为已经签名成功的apk。  
 
 其中的jks为打包好的密钥相关文件。  
 
@@ -34,7 +34,11 @@ apksigner sign -ks "D:\Desktop\编译文件\t8323\系统签名相关\platform_t6
 
 `java -Djava.library.path=. -jar signapk.jar platform.x509.pem platform.pk8 app-debug.apk app-debug_sign.apk`
 
+# 3 签名到期怎么办
+google官方文档表明，v3版本的签名支持密钥升级。  
+![](img/Pasted%20image%2020231117114815.png)
 
 # 相关资料
 [android 查看应用签名 md5 安卓应用签名查看工具](https://blog.51cto.com/u_16099184/6929020)  
 [android实现系统自动签名](https://blog.csdn.net/CSDN_LQR/article/details/128996721)
+[google官方文档-签名方案](https://source.android.google.cn/docs/security/features/apksigning/v3?hl=zh-cn)
