@@ -8,12 +8,48 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6b928fb1a830b336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实际开发/debug tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9edb1a6fda82b38e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "项目资料/t8318H a13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3cbf92384d4086d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "项目资料/t6840 创世讯联 a12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9003064319ff7322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目资料/t8340 a13.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 353.5
   },
   "right": {
     "id": "0e445bacf439a5af",
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目资料/t6840 创世讯联 a12.md",
+                "file": "实际开发/debug tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目资料/t6840 创世讯联 a12.md",
+                "file": "实际开发/debug tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +161,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目资料/t6840 创世讯联 a12.md"
+                "file": "实际开发/debug tips.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,27 +234,33 @@
       }
     ]
   },
-  "active": "9edb1a6fda82b38e",
+  "active": "6b928fb1a830b336",
   "lastOpenFiles": [
+    "实际开发/需求定制/【Settings】动态显示和隐藏部分菜单.md",
+    "实际开发/debug tips.md",
+    "项目资料/t8318H a13.md",
+    "项目资料/t8340 a13.md",
+    "实际开发/SMR/注意事项.md",
+    "实际开发/SMR",
+    "项目资料/t6840 创世讯联 a12.md",
+    "实际开发/需求定制/【Settings】去除顶部搜索框.md",
+    "系统部分相关源码分析/SystemUI.md",
     "模板/项目.md",
+    "实际开发/bug修复/使用PRESIGNED签名预置应用后开机无法打开.md",
     "模板/定制需求.md",
     "模板/修复bug.md",
-    "项目资料/t6840 创世讯联 a12.md",
     "实际开发/需求定制/【Settings】修改系统默认时区.md",
     "项目资料",
     "实际开发/需求定制/【SystemUI】隐藏状态栏.md",
     "实际开发/需求定制/对第三方apk进行系统签名.md",
     "实际开发/需求定制/【Settings】修改默认语言.md",
     "实际开发/需求定制/【Settings】默认开启wifi.md",
-    "系统部分相关源码分析/SystemUI.md",
     "系统部分相关源码分析/Settings",
     "实际开发/需求定制/去除应用内wifi使用允许弹框.md",
     "实际开发/需求定制/屏幕底部上滑进入指定app.md",
     "实际开发/需求定制/默认授予运行时权限.md",
     "实际开发/需求定制/禁止锁屏页面通知.md",
     "实际开发/需求定制/过滤指定应用通知.md",
-    "实际开发/需求定制/【Settings】动态显示和隐藏部分一级菜单.md",
-    "实际开发/bug修复/使用PRESIGNED签名预置应用后开机无法打开.md",
     "实际开发/需求定制/img/Pasted image 20231129153549.png",
     "实际开发/需求定制/img/Pasted image 20231129153240.png",
     "实际开发/需求定制/img/Pasted image 20231129142303.png",
@@ -233,18 +275,12 @@
     "实际开发/需求定制/默认授予应用通知权限.md",
     "Obsidian模板应用.md",
     "img/Pasted image 20231116172108.png",
-    "实际开发/未命名.md",
     "实际开发/bug修复",
     "实际开发/需求定制",
     "模板",
-    "模板.md",
-    "Obsidian更改图片保存形式.md",
-    "test_for_md.md",
-    "调试源码部分/Android Studio查看AOSP源码（blocked）.md",
     "实际开发/bug修复/img/Pasted image 20231116101844.png",
     "实际开发/bug修复/img/Pasted image 20231116093521.png",
     "实际开发/bug修复/img",
-    "实际开发",
-    "获取源码/img"
+    "实际开发"
   ]
 }
