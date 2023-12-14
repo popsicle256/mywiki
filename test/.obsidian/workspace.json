@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际开发/debug tips.md",
+                "file": "实际开发/需求定制/【Settings】二级菜单增加定制菜单.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实际开发/debug tips.md",
+                "file": "项目资料/t8318H a13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实际开发/debug tips.md",
+                "file": "项目资料/t8318H a13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实际开发/debug tips.md"
+                "file": "项目资料/t8318H a13.md"
               }
             }
           }
@@ -234,15 +235,16 @@
       }
     ]
   },
-  "active": "6b928fb1a830b336",
+  "active": "9edb1a6fda82b38e",
   "lastOpenFiles": [
-    "实际开发/需求定制/【Settings】动态显示和隐藏部分菜单.md",
-    "实际开发/debug tips.md",
-    "项目资料/t8318H a13.md",
     "项目资料/t8340 a13.md",
+    "项目资料/t6840 创世讯联 a12.md",
+    "实际开发/需求定制/【Settings】二级菜单增加定制菜单.md",
+    "实际开发/debug tips.md",
+    "实际开发/需求定制/【Settings】动态显示和隐藏部分菜单.md",
+    "项目资料/t8318H a13.md",
     "实际开发/SMR/注意事项.md",
     "实际开发/SMR",
-    "项目资料/t6840 创世讯联 a12.md",
     "实际开发/需求定制/【Settings】去除顶部搜索框.md",
     "系统部分相关源码分析/SystemUI.md",
     "模板/项目.md",
@@ -273,7 +275,6 @@
     "实际开发/需求定制/img/Pasted image 20231117114815.png",
     "实际开发/需求定制/img",
     "实际开发/需求定制/默认授予应用通知权限.md",
-    "Obsidian模板应用.md",
     "img/Pasted image 20231116172108.png",
     "实际开发/bug修复",
     "实际开发/需求定制",
