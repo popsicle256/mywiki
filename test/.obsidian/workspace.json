@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "c3cbf92384d4086d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目资料/t6840 创世讯联 a12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9003064319ff7322",
             "type": "leaf",
             "state": {
@@ -238,11 +226,11 @@
   "active": "9edb1a6fda82b38e",
   "lastOpenFiles": [
     "项目资料/t8340 a13.md",
+    "项目资料/t8318H a13.md",
     "项目资料/t6840 创世讯联 a12.md",
     "实际开发/需求定制/【Settings】二级菜单增加定制菜单.md",
     "实际开发/debug tips.md",
     "实际开发/需求定制/【Settings】动态显示和隐藏部分菜单.md",
-    "项目资料/t8318H a13.md",
     "实际开发/SMR/注意事项.md",
     "实际开发/SMR",
     "实际开发/需求定制/【Settings】去除顶部搜索框.md",
