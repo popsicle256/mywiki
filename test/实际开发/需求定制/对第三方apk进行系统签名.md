@@ -16,8 +16,8 @@ apksigner sign -ks "D:\Desktop\编译文件\t8323\系统签名相关\platform_t6
 **签名相关文件：**
 
 **signapk.jar**， 位置：`out/host/linux-x86/framework/signapk.jar`  
-**platform.x509.pem**，位置：`build/target/product/security/platform.x509.pem`  
-**platform.pk8**，位置：`build/target/product/security/platform.pk8`  
+**platform.x509.pem**，位置：`device/mediatek/security/platform.x509.pem`  
+**platform.pk8**，位置：`device/mediatek/security//platform.pk8`  
 
 经查，**实际密钥位置**为`device/mediatek/security/`，这是项目进行了客制化后的位置。  
 可通过`keytool -printcert -file (x509.pem文件路径)`查看**密钥文件的加密算法是否与apk中签名加密算法是否一致**。

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目资料/t8318H a13.md",
+                "file": "实际开发/需求定制/【Settings】对外提供打开“显示”中的”屏幕超时“.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目资料/t8318H a13.md",
+                "file": "项目资料/t8340 a13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目资料/t8318H a13.md",
+                "file": "项目资料/t8340 a13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目资料/t8318H a13.md"
+                "file": "项目资料/t8340 a13.md"
               }
             }
           }
@@ -214,21 +214,55 @@
           }
         ],
         "direction": "vertical",
-        "x": 370,
-        "y": 95,
-        "width": 1186,
-        "height": 891,
+        "x": 4,
+        "y": 3,
+        "width": 1022,
+        "height": 726,
         "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "7e5e98591a27da59",
+        "type": "window",
+        "children": [
+          {
+            "id": "9fc0ae1b9e52f9c5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7d6d654390354e17",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "实际开发/需求定制/对第三方apk进行系统签名.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "9edb1a6fda82b38e",
+  "active": "9003064319ff7322",
   "lastOpenFiles": [
+    "实际开发/需求定制/对第三方apk进行系统签名.md",
     "项目资料/t8340 a13.md",
+    "实际开发/需求定制/【Settings】对外提供打开“显示”中的”屏幕超时“.md",
+    "实际开发/bug修复/使用PRESIGNED签名预置应用后开机无法打开.md",
     "项目资料/t8318H a13.md",
-    "项目资料/t6840 创世讯联 a12.md",
     "实际开发/需求定制/【Settings】二级菜单增加定制菜单.md",
+    "项目资料/t6840 创世讯联 a12.md",
     "实际开发/debug tips.md",
     "实际开发/需求定制/【Settings】动态显示和隐藏部分菜单.md",
     "实际开发/SMR/注意事项.md",
@@ -236,13 +270,11 @@
     "实际开发/需求定制/【Settings】去除顶部搜索框.md",
     "系统部分相关源码分析/SystemUI.md",
     "模板/项目.md",
-    "实际开发/bug修复/使用PRESIGNED签名预置应用后开机无法打开.md",
     "模板/定制需求.md",
     "模板/修复bug.md",
     "实际开发/需求定制/【Settings】修改系统默认时区.md",
     "项目资料",
     "实际开发/需求定制/【SystemUI】隐藏状态栏.md",
-    "实际开发/需求定制/对第三方apk进行系统签名.md",
     "实际开发/需求定制/【Settings】修改默认语言.md",
     "实际开发/需求定制/【Settings】默认开启wifi.md",
     "系统部分相关源码分析/Settings",
@@ -262,7 +294,6 @@
     "系统部分相关源码分析/权限相关",
     "实际开发/需求定制/img/Pasted image 20231117114815.png",
     "实际开发/需求定制/img",
-    "实际开发/需求定制/默认授予应用通知权限.md",
     "img/Pasted image 20231116172108.png",
     "实际开发/bug修复",
     "实际开发/需求定制",
