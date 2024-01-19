@@ -3,6 +3,7 @@
 
 修改系统默认语言为中文
 # 实现
+1.修改为“中文”
 
 ```diff
 diff --git a/device/mediatek/system/mssi_t_t8323_ummeiw_T105_64_k419/sys_mssi_t_t8323_ummeiw_T105_64_k419.mk b/device/mediatek/system/mssi_t_t8323_ummeiw_T105_64_k419/sys_mssi_t_t8323_ummeiw_T105_64_k419.mk
@@ -18,6 +19,19 @@ index aa8102aeed8..9d70cac149a 100644
  PRODUCT_MANUFACTURER := alps
  PRODUCT_NAME := sys_mssi_t_t8323_ummeiw_T105_64_k419
  PRODUCT_DEVICE := $(strip $(SYS_BASE_PROJECT))date：2023-11-23
+```
+
+2.修改为“简体中文”
+```diff
+diff --git a/device/mediatek/system/common/system.prop b/device/mediatek/system/common/system.prop
+index 9ed4cdc1bbf..6f21299c6ac 100644
+--- a/device/mediatek/system/common/system.prop
++++ b/device/mediatek/system/common/system.prop
+@@ -69,3 +69,4 @@ Build.BRAND=MTK
+ ro.iorapd.enable=false
+
+ persist.sys.timezone=Asia/Shanghai
++persist.sys.locale=zh-Hans-CN
 ```
 # 相关资料
 []()
