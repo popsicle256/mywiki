@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际开发/需求定制/【Settings】对外提供打开“显示”中的”屏幕超时“.md",
+                "file": "实际开发/需求定制/⬜【frameworks】屏幕底部上滑进入指定app.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际开发/需求定制/禁止状态栏下拉展开.md",
+                "file": "实际开发/需求定制/⬜禁止状态栏下拉展开.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际开发/需求定制/预置文件到内部存储（sdcard）.md",
+                "file": "实际开发/需求定制/⬜预置文件到内部存储（sdcard）.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,38 +61,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际开发/预置应用（开机时安装）.md",
+                "file": "实际开发/需求定制/⬜预置应用（开机时安装）.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1b64d9a5ee7ec0f5",
+            "id": "94c0745289a3b8e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际开发/需求定制/修改桌面布局.md",
+                "file": "实际开发/需求定制/⬜修改系统默认音量.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "108fb49cdce200e6",
+            "id": "d92d2719e6074d0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实际开发/需求定制/修改系统默认音量.md",
+                "file": "实际开发/需求定制/⬜【Settings】对外提供打开“显示”中的”屏幕超时“.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43927b8f40228d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实际开发/需求定制/⬜【frameworks】屏幕底部上滑进入指定app.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实际开发/需求定制/修改系统默认音量.md",
+                "file": "实际开发/需求定制/【Settings】二级菜单增加定制菜单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实际开发/需求定制/修改系统默认音量.md",
+                "file": "实际开发/需求定制/【Settings】二级菜单增加定制菜单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实际开发/需求定制/修改系统默认音量.md"
+                "file": "实际开发/需求定制/【Settings】二级菜单增加定制菜单.md"
               }
             }
           }
@@ -227,32 +238,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "8a1065a547a20204",
+        "id": "e3acba10ec7f98e1",
         "type": "window",
         "children": [
           {
-            "id": "fb7d89dc9b3dc10d",
+            "id": "aede2851ccae24b5",
             "type": "tabs",
             "children": [
               {
-                "id": "28f2b2489aee9187",
+                "id": "206f263933903a7b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "实际开发/bug修复/使用PRESIGNED签名预置应用后开机无法打开.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9d779daa77a80c41",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "系统部分相关源码分析/权限相关/运行时权限相关.md",
+                    "file": "实际开发/需求定制/修改桌面布局.md",
                     "mode": "source",
                     "source": false
                   }
@@ -262,75 +261,44 @@
           }
         ],
         "direction": "vertical",
-        "x": 4,
-        "y": 3,
-        "width": 1022,
-        "height": 726,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "7e5e98591a27da59",
-        "type": "window",
-        "children": [
-          {
-            "id": "9fc0ae1b9e52f9c5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7d6d654390354e17",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "实际开发/需求定制/对第三方apk进行系统签名.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 120,
+        "x": 0,
+        "y": 0,
         "width": 1024,
-        "height": 800,
-        "maximize": true,
+        "height": 728,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "108fb49cdce200e6",
+  "active": "6b928fb1a830b336",
   "lastOpenFiles": [
-    "项目资料/T7818 长城 a11.md",
-    "实际开发/需求定制/修改系统默认音量.md",
-    "实际开发/需求定制/修改桌面布局.md",
-    "Android13-修改主界面apk摆放位置（Launcher3）.md",
-    "实际开发/预置应用（开机时安装）.md",
-    "实际开发/需求定制/预置文件到内部存储（sdcard）.md",
-    "实际开发/bug修复/上滑解锁后下滑会打开状态栏（在已去除下拉状态栏情况下）.md",
-    "实际开发/需求定制/对第三方apk进行系统签名.md",
-    "实际开发/需求定制/禁止状态栏下拉展开.md",
-    "实际开发/需求定制/【Settings】修改默认语言.md",
     "项目资料/t8340 a13.md",
-    "系统部分相关源码分析/Window.md",
-    "实际开发/需求定制/【Settings】对外提供打开“显示”中的”屏幕超时“.md",
-    "系统部分相关源码分析/SystemUI.md",
-    "实际开发/bug修复/使用PRESIGNED签名预置应用后开机无法打开.md",
-    "项目资料/t8318H a13.md",
-    "实际开发/需求定制/【Settings】二级菜单增加定制菜单.md",
-    "项目资料/t6840 创世讯联 a12.md",
+    "实际开发/需求定制/⬜【frameworks】屏幕底部上滑进入指定app.md",
+    "实际开发/需求定制/⬜【Settings】对外提供打开“显示”中的”屏幕超时“.md",
+    "实际开发/需求定制/⬜修改系统默认音量.md",
+    "实际开发/样机软件注意事项.md",
     "实际开发/debug tips.md",
+    "实际开发/需求定制/修改桌面布局.md",
+    "实际开发/需求定制/⬜【frameworks】屏幕底部上滑进入指定apk.md",
+    "实际开发/需求定制/⬜禁止状态栏下拉展开.md",
+    "实际开发/需求定制/⬜预置文件到内部存储（sdcard）.md",
+    "实际开发/需求定制/⬜预置应用（开机时安装）.md",
+    "实际开发/需求定制/【Settings】二级菜单增加定制菜单.md",
+    "实际开发/bug修复/使用PRESIGNED签名预置应用后开机无法打开.md",
+    "实际开发/需求定制/对第三方apk进行系统签名.md",
+    "项目资料/T7818 长城 a11.md",
+    "Android13-修改主界面apk摆放位置（Launcher3）.md",
+    "实际开发/bug修复/上滑解锁后下滑会打开状态栏（在已去除下拉状态栏情况下）.md",
+    "实际开发/需求定制/【Settings】修改默认语言.md",
+    "系统部分相关源码分析/Window.md",
+    "系统部分相关源码分析/SystemUI.md",
+    "项目资料/t8318H a13.md",
+    "项目资料/t6840 创世讯联 a12.md",
     "实际开发/需求定制/【Settings】动态显示和隐藏部分菜单.md",
     "实际开发/SMR/注意事项.md",
     "实际开发/SMR",
     "实际开发/需求定制/【Settings】去除顶部搜索框.md",
     "模板/项目.md",
-    "模板/定制需求.md",
-    "模板/修复bug.md",
-    "实际开发/需求定制/【Settings】修改系统默认时区.md",
     "项目资料",
     "系统部分相关源码分析/Settings",
     "实际开发/需求定制/img/Pasted image 20231129153549.png",
